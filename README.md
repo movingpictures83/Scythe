@@ -3,7 +3,7 @@
 # Input: TXT
 # Output: FASTQ
 # Tested with: PluMA 1.1, GCC 4.8.4
-# Dependencies: CutAdapt 2.6
+# Dependencies: Scythe
 
 PluMA plugin to trim adapters using Scythe.
 
