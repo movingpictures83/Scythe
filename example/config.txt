@@ -1,0 +1,2 @@
+Prefix plugins/Scythe/example
+Plugin Scythe inputfile parameters.txt outputfile S12_R1.trimmed.fastq
